@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Image puzzle</string>
+     <string name="config_title">OPTIONS</string>
+    <string name="btn_play">START</string>
+    <string name="config_sound">Background music and sound effects</string>
+    <string name="time">Time:</string>
+    <string name="best_time">Best time of this photo:</string>
+    <string name="result_tap">tap to continue</string>
+    <string name="completed">WOW!</string>
+    <string name="faq">Tap on blocks to rotate them and fold a photo</string>
+    <string name="select">swipe to select a photo</string>
+    <string name="mode">Mode</string>
+</resources>
